@@ -1,4 +1,5 @@
 # AppGlobal
+JAVA
 This project is based on computer services for IT company
 
 
